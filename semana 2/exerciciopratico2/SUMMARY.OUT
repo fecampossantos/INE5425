@@ -1,0 +1,17 @@
+Fit All
+
+Document:  C:\Users\fecam\Documents\UFSC\ModSim\exerciciopratico1\dados.txt
+Data File: C:\Users\fecam\Documents\UFSC\ModSim\exerciciopratico1\dados.txt
+
+
+Function       Sq Error
+-----------------------
+Weibull        0.00136
+Beta           0.00159
+Gamma          0.00204
+Erlang         0.00228
+Normal         0.00716
+Lognormal      0.008
+Triangular     0.0169
+Exponential    0.0225
+Uniform        0.0432

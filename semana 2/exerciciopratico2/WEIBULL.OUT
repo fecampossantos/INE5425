@@ -1,0 +1,56 @@
+
+	Distribution Summary
+
+Distribution:	Weibull      
+Expression:	103 + WEIB(161, 1.67)
+Square Error:	0.001365
+
+Chi Square Test
+  Number of intervals	= 14
+  Degrees of freedom 	= 11
+  Test Statistic     	= 30.3
+  Corresponding p-value	< 0.005
+
+Kolmogorov-Smirnov Test
+  Test Statistic	= 0.0205
+  Corresponding p-value	> 0.15
+
+	Data Summary
+
+Number of Data Points	= 1000
+Min Data Value       	= 103
+Max Data Value       	= 647
+Sample Mean          	= 247
+Sample Std Dev       	= 92
+
+	Histogram Summary
+
+Histogram Range    	= 103 to 648
+Number of Intervals	= 20
+
+
+==================================================================
+Int.   No. of               Probability           Cumulative      
+No.    Data Pts.   x        Density               Distribution    
+------------------------------------------------------------------
+                            Data   Function       Data   Function   
+   0    61       130.     0.0610     0.0498     0.0610     0.0498
+   1   102       158.      0.102      0.101      0.163      0.150
+   2   106       185.      0.106      0.124      0.269      0.275
+   3   147       212.      0.147      0.131      0.416      0.406
+   4   124       239.      0.124      0.125      0.540      0.530
+   5   110       267.      0.110      0.111      0.650      0.641
+   6    86       294.     0.0860     0.0935      0.736      0.735
+   7    61       321.     0.0610     0.0750      0.797      0.810
+   8    60       348.     0.0600     0.0577      0.857      0.868
+   9    36       376.     0.0360     0.0428      0.893      0.910
+  10    33       403.     0.0330     0.0306      0.926      0.941
+  11    37       430.     0.0370     0.0212      0.963      0.962
+  12     7       457.    0.00700     0.0142      0.970      0.976
+  13    10       485.     0.0100    0.00924      0.980      0.986
+  14     9       512.    0.00900    0.00585      0.989      0.991
+  15     6       539.    0.00600    0.00360      0.995      0.995
+  16     2       566.    0.00200    0.00216      0.997      0.997
+  17     0       594.       0.00    0.00126      0.997      0.998
+  18     1       621.    0.00100   0.000721      0.998      0.999
+  19     2       648.    0.00200   0.000401       1.00       1.00
